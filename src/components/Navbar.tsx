@@ -20,7 +20,7 @@ export function Navbar({ onEnroll }: NavbarProps) {
             whileHover={{ scale: 1.05 }}
           >
             <GraduationCap className="w-8 h-8 text-indigo-400" />
-            <span className="text-xl font-bold text-white">TechEdu</span>
+            <span className="text-xl font-bold text-white">DeveloperEasy</span>
           </motion.div>
           
           <div className="flex items-center gap-8">

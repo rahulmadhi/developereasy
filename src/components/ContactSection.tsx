@@ -10,8 +10,8 @@ export function ContactSection() {
       transition={{ delay: 0.5 }}
       className="py-20 px-4"
     >
-      <div className="max-w-6xl mx-auto">
-        <h2 className="text-4xl font-bold text-white text-center mb-12">Get in Touch</h2>
+      <div className="max-w-6xl mx-auto" id='contact'>
+        <h2 className="text-4xl font-bold text-white text-center mb-12">For More Enquiries</h2>
         <div className="bg-white/10 backdrop-blur-lg rounded-2xl p-8 border border-white/20">
           <div className="flex flex-col md:flex-row items-center justify-center gap-8">
             <div className="flex items-center gap-4">

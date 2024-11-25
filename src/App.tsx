@@ -9,26 +9,28 @@ import { Toaster } from 'react-hot-toast';
 
 const courses = [
   {
-    title: 'Java Full Stack Development',
-    description: 'Master Java, Spring Boot, React, and modern web development practices with hands-on projects.',
+    title: 'Java / Python Full Stack Development',
+    description: 'Lean Java / Python with  Html, Css, Javascript, Advance Javascript, React Js and Mysql.',
     icon: 'java',
-    duration: '6 months',
-    price: '₹49,999',
-  },
-  {
-    title: 'Python Full Stack Development',
-    description: 'Learn Python, Django, React, and build complete web applications from scratch.',
-    icon: 'python',
-    duration: '6 months',
-    price: '₹45,999',
+    duration: '3 months',
+    price: 'Click here to register',
   },
   {
     title: 'Data Analyst',
-    description: 'Become proficient in data analysis using Python, SQL, and visualization tools.',
+    description: 'Learn and Become proficient in data analysis using Python, Mysql, Advance Excel, VBA and PowerBi.',
     icon: 'data',
-    duration: '4 months',
-    price: '₹39,999',
+    duration: '3 months',
+    price: 'Click here to register',
   },
+  {
+    title: 'Machine Learning',
+    description: 'Learn Python, Mysql, Advance Excel, VBA , PowerBi and Machinelearning',
+    icon: 'python',
+    duration: '4 months',
+    price: 'Click here to register',
+  }
+ 
+ 
 ] as const;
 
 function App() {

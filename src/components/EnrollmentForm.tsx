@@ -110,8 +110,8 @@ export function EnrollmentForm({ onClose, selectedCourse }: EnrollmentFormProps)
               onChange={(e) => setFormData({ ...formData, course: e.target.value })}
             >
               <option style={{color:"black"}} value="">Select a course</option>
-              <option style={{color:"black"}} value="Java Full Stack Development">Java Full Stack Development</option>
-              <option style={{color:"black"}} value="Python Full Stack Development">Python Full Stack Development</option>
+              <option style={{color:"black"}} value="Java / Python Full Stack Development">Java / Python Full Stack Development</option>
+              <option style={{color:"black"}} value="Machine Learning">Machine Learning</option>
               <option  style={{color:"black"}} value="Data Analyst">Data Analyst</option>
             </select>
           </div>
