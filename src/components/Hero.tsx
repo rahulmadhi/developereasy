@@ -1,7 +1,7 @@
 import { motion } from 'framer-motion';
 import { GraduationCap } from 'lucide-react';
 import React from 'react';
-
+import {useEffect} from "react" ;
 export function Hero() {
   return (
     <motion.section

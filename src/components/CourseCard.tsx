@@ -1,7 +1,7 @@
 import { motion, useMotionValue, useTransform, useSpring } from 'framer-motion';
 import { Book, Code2, Database } from 'lucide-react';
 import React from 'react';
-
+// please explain
 interface CourseCardProps {
   title: string;
   description: string;
