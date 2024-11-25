@@ -10,7 +10,7 @@ import { Toaster } from 'react-hot-toast';
 const courses = [
   {
     title: 'Java / Python Full Stack Development',
-    description: 'Lean Java / Python with  Html, Css, Javascript, Advance Javascript, React Js and Mysql.',
+    description: 'Learn Java / Python with  Html, Css, Javascript, Advance Javascript, React Js and Mysql.',
     icon: 'java',
     duration: '3 months',
     price: 'Click here to register',
